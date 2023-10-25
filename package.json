@@ -1,5 +1,6 @@
 {
 	"author": "Jordan Hasulube",
+	"description": "Jordan's repo for Software Development",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
